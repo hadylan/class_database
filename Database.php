@@ -24,7 +24,7 @@ class Database
 
     // Constant
 
-    private const CONFIGURATION_FILE = __DIR__ . '/../configuration.php';
+    private const CONFIGURATION_FILE = __DIR__ . './configuration.php';
 
 
 
